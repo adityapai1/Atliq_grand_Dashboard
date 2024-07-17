@@ -1,27 +1,18 @@
-# 🍫 Awesome Chocolates Sales Report
-
+# 🏨 Atliq Grand Hotels Dashboard
 ## 📌 Objective
-Sales data proves to be pivotal in guaging the bussiness strategies of individual products. To make the huge data comprehensible, this project provides a cohesive representation of the Sales Reports of 'Awesome Chocolates'. The dashboard makes information coherent by representing it as the Total Sales, Total Boxes, Shipment Count and Low Box Perentage. It provides detailed visuals to the users in the form of Executive Summaries, Sales by Product, Top Sales Person and Sales Trend. This dashboard succeeds in concisely describing sales data for the user to gain significant insights from it.
-
-## ♜ Database Used : MySQL
-
+To address the declining market share and revenue of Atliq Grand Hotels, we need to leverage the use of Bussiness and Data Intelligence. This dashboard aims to provide a detailed analytics dashboard for the hotels to provide a detailed and comprehensive information display. The dahboard implements this using the metrics of RevPAR (Revenue Per Available Room), ADR (Average Daily Rate), Occupancy %, Successful Bookings, and Average Rating. The analysis will include week-over-week comparisons and allow for monthly and weekly data filtering. A consolidated view with drill-down capability by city and conditionally formatted revenue visualization will support strategic decision-making to improve AtliQ Grands' competitive position in the hospitality industry.
 
 ## Video Demo 
 
 https://github.com/user-attachments/assets/2da32129-ab53-4058-8641-d072522a778a
 
 
-
-
-
 ## ✨ Key Features
 
-* Actionable Insights: Delivery of executive summaries, product-wise sales breakdowns, top salesperson data, and sales trends to inform strategic decision-making.
-* Dynamic Data Loading: Efficient utilization of Power BI parameters and MySQL connections to load only necessary sales data, improving performance and responsiveness
-
-
-
-
+* Core KPI Display: RevPAR, ADR, Occupancy %, Successful Bookings, Average Rating
+* Temporal Analysis: Week-over-week comparisons, monthly/weekly filters
+* Geospatial Breakdown: City-level drill-down capability
+* Revenue Visualization: Conditional formatting for quick insights
 
 
 ## Built With : PowerBI <img src="https://img.icons8.com/?size=100&id=NxWCUzipgfRt&format=png&color=000000" width="24" alt="icon">
