@@ -11,8 +11,9 @@
  <li> A consolidated view with drill-down capability by city and conditionally formatted revenue visualization will support strategic decision-making to improve AtliQ Grands' competitive position in the hospitality industry.
  </li>
   </ul>
-## Built With : PowerBI <img src="https://img.icons8.com/?size=100&id=NxWCUzipgfRt&format=png&color=000000" width="24" alt="icon">
-## ▶️ Video Demo 
+
+## Built With : PowerBI ![PowerBI Icon](https://img.icons8.com/?size=20&id=NxWCUzipgfRt&format=png&color=000000)
+## Video Demo 
 
 https://github.com/user-attachments/assets/2da32129-ab53-4058-8641-d072522a778a
 
